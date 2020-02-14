@@ -1,0 +1,11 @@
+I am currently in insert mode.
+Hello Professor Cherkauer.
+Why did the chicken cross the road?
+
+I am currrenly using Vi to enter 2 more paragraphs of content. 
+blah blah blah blah. 
+This is my finest work ever. 
+
+What is your favorite fruit?
+Do you enjoy the snow? 
+How is your home brewing doing?
